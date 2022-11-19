@@ -1,7 +1,17 @@
 body {
-  background-color: aqua;
+  background-color: #f8e8a6;
+  text-align: center;
 }
 
-h1 {
-  text-align: center;
+p {
+  width: auto;
+}
+
+img {
+  border-radius: 10px;
+  margin: 30px auto;
+}
+
+footer a {
+  margin: 0 10px;
 }
